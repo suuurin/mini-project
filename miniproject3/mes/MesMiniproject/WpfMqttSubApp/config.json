@@ -1,0 +1,14 @@
+{
+  "Database": {
+    "Server": "210.119.12.69",
+    "Database": "miniproject",
+    "User": "root",
+    "Password":  "12345"
+  },
+  "Mqtt": {
+    "Broker": "210.119.12.69",
+    "ClientId": "MesMqttSub",
+    "Port": 1883,
+    "Topic":  "pknu/sf69/data"
+  }
+}
